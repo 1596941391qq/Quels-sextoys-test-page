@@ -1,10 +1,27 @@
-site_name: 云顶之弈 S16 三费卡分析
-site_description: 云顶之弈 S16 最垃圾三费卡分析，基于版本演化与实战效率判断
-site_author: weihacking
+site_name: Bien-être & amour pour elle
 theme:
   name: material
+  language: fr # 法语界面（匹配你的主题语言）
+  palette:
+    primary: deep purple # 温柔紫色调，温暖不刺眼
+    accent: pink # 粉色点缀，亲切感
+  features:
+    - navigation.tabs # 顶部导航
+    - navigation.sections
+    - toc.integrate # 右侧目录跟随滚动
+
+docs_dir: docs # 你的 Markdown 文件目录
+site_dir: site # 输出目录（Cloudflare Pages 会用这个）
 
 nav:
-  - 首页: index.md
+  - Accueil: index.md
   - FAQ: faq.md
-  - 关于: about.md
+  - À propos de moi: about.md
+
+markdown_extensions:
+  - tables
+  - admonition # 支持 !!! note 等温柔提示块
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true

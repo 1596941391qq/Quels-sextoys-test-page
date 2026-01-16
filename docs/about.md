@@ -1,79 +1,27 @@
-# 关于本站（About）
+# À propos de moi
 
-本网站是一个围绕《云顶之弈》（Teamfight Tactics）S16 版本的**分析型内容站点**，主要目标是解释玩家在实际对局中经常遇到、但容易被排行榜或攻略忽略的问题。
+Bonjour, je m'appelle **Élodie**。
 
-本站不提供阵容推荐，也不以“上分攻略”为目标，而是关注**单卡在真实对局中的资源效率与决策价值**。
+Depuis plus de quinze ans, j'accompagne des femmes (et parfois des couples) dans leur chemin vers un rapport plus doux, plus confiant et plus joyeux avec leur corps et leur intimité.
 
----
+Je ne suis ni médecin ni psychologue, mais une **consultante en bien-être intime** qui a écouté, beaucoup écouté. Des centaines de femmes m'ont confié leurs doutes, leurs peurs, leurs petites victoires, leurs moments de honte et leurs éclats de rire quand elles osaient enfin dire ce qu'elles aimaient vraiment.
 
-## 本站在做什么？
+J'ai travaillé dans des boutiques confidentielles, tenu des ateliers pour des amies, répondu à des milliers de messages anonymes tard le soir. Aujourd'hui, j'écris ici avec une seule envie : **que chaque femme se sente moins seule face à son corps**.
 
-本站聚焦于一个具体问题：
+Ce site n'est pas une boutique.  
+Il n'y a pas de lien affilié, pas de publicité, pas de produit à vendre.  
+C'est juste un petit coin de parole où je partage ce que j'ai appris au fil des années, avec beaucoup de tendresse et zéro jugement.
 
-> 在当前版本环境下，哪些三费卡在大多数对局中**不值得优先投资**，以及为什么。
+J'écris pour les filles qui se posent des questions,  
+pour les mamans qui aimeraient pouvoir parler sans rougir,  
+pour les papas qui cherchent comment dire « je t'aime et je veux que tu sois heureuse dans ton corps » sans savoir par où commencer.
 
-我们的分析重点不是：
-- 单局极端表现  
-- 理论最优解  
-- 高分段特化打法  
+Si un jour vous avez envie de m'écrire (même anonymement), je suis là.  
+Pas pour vendre, juste pour écouter et répondre avec le cœur.
 
-而是：
-- 普通对局中的平均表现  
-- 玩家常见误判  
-- 金币与装备投入产出比  
+Prenez soin de vous, très fort.  
+Vous le méritez.
 
----
-
-## 内容是如何产生的？
-
-本站内容基于以下信息来源与分析方式：
-
-- **公开数据与趋势观察**  
-  包括社区常见胜率趋势、使用率变化与版本更新后的整体表现走向。
-
-- **玩家讨论与共识分析**  
-  综合多个社区中对同一卡牌的长期讨论，而非单一观点。
-
-- **实战决策逻辑推导**  
-  从经济曲线、成型窗口与资源分配角度分析单位价值。
-
-- **AI 辅助整理与结构化**  
-  使用 AI 工具对已有信息进行整理、归纳与表达，但结论基于明确判断逻辑，而非随机生成。
-
----
-
-## 我们不做什么？
-
-为了避免误导，本站明确不做以下事情：
-
-- 不复制或洗稿攻略内容  
-- 不伪造胜率数据  
-- 不声称官方立场  
-- 不提供付费推荐或商业排名  
-
-所有结论均为**分析性判断**，并且与版本环境强相关。
-
----
-
-## 关于版本变化
-
-《云顶之弈》的平衡性会随着版本更新持续变化，因此：
-
-- 某些结论只在特定 Patch 周期内成立  
-- “最不值得投资的三费卡”并非永久固定  
-- 内容会根据版本演进进行调整或修正  
-
----
-
-## 免责声明
-
-本站为非官方分析站点，与 Riot Games 或其关联公司不存在任何隶属或合作关系。  
-《云顶之弈》及相关名称均为其各自权利方的商标。
-
----
-
-## 联系与反馈
-
-如果你发现内容存在明显错误，或希望补充不同视角的分析，欢迎通过站点页面反馈。
-
-本站的目标不是“证明自己正确”，而是**减少玩家在对局中的信息误判成本**。
+Élodie  
+✦ Consultante en bien-être intime & autrice de mots doux pour le corps  
+✦ Quelque part entre une tasse de thé et une bougie parfumée

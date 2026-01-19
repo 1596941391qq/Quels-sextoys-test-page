@@ -1,6 +1,6 @@
 # Un cadeau d’amour pour elle – Quelques mots doux d’un papa qui comprend
 
-![Embrassade douce entre deux femmes, évocation du bien-être intime et de l’amour paternel pour sa fille](D:\test-pseo2\images\874f261e4de1411fb267d65150d3ed02.webp)
+![Embrassade douce entre deux femmes, évocation du bien-être intime et de l’amour paternel pour sa fille](images/874f261e4de1411fb267d65150d3ed02.webp)
 
 Bonjour cher papa,
 
@@ -128,6 +128,6 @@ Avec toute ma tendresse,
 
 Si vous souhaitez explorer des idées similaires avec beaucoup de respect et de discrétion, vous pouvez jeter un œil ici : https://smilemakerscollection.com
 
-![Boîte cœur contenant des accessoires bien-être délicats, symbole d’un cadeau attentionné d’un père pour sa fille adulte](D:\test-pseo2\images\image-1768567756359.jpg)
+![Boîte cœur contenant des accessoires bien-être délicats, symbole d’un cadeau attentionné d’un père pour sa fille adulte](images/image-1768567756359.jpg)
 
 Prenez soin de vous.

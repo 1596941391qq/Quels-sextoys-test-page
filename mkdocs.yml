@@ -11,14 +11,15 @@ theme:
     - toc.integrate # 右侧目录跟随滚动
 
 docs_dir: docs # 你的 Markdown 文件目录
-site_dir: site # 输出目录（Cloudflare Pages 会用这个）
-
+site_dir: site
+use_directory_urls: true
 nav:
   - Accueil: index.md
   - FAQ: faq.md
   - À propos de moi: about.md
 
 markdown_extensions:
+  - attr_list
   - tables
   - admonition # 支持 !!! note 等温柔提示块
   - pymdownx.details

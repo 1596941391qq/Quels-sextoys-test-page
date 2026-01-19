@@ -126,7 +126,7 @@ Avec toute ma tendresse,
 ✦ Consultante en bien-être intime & autrice de mots doux pour le corps  
 ✦ Ici pour écouter, jamais pour juger
 
-Si vous souhaitez explorer des idées similaires avec beaucoup de respect et de discrétion, vous pouvez jeter un œil ici : https://smilemakerscollection.com
+Si vous souhaitez explorer des idées similaires avec beaucoup de respect et de discrétion, vous pouvez jeter un œil ici : **smilemakerscollection**
 
 ![Boîte cœur contenant des accessoires bien-être délicats, symbole d’un cadeau attentionné d’un père pour sa fille adulte](images/image-1768567756359.jpg)
 
